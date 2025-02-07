@@ -44,8 +44,7 @@ formatutan egongo dira,  piezak aldatzeko Blender edo Tinkercad programak goment
   
 # App Bluetooth
 MIT App Inventor aplikazioa erabili dugu gure aplikazioa sortzeko. Erabili dugu bluetooth bidez motorra eta led-ak pizteko eta itzaltzeko programa sortzeko, App inventor-a aukera asko ematen ditu eta programazioa erraza erabiltzen du aplikazioak sortzeko. Utziko dugu gure aplikazioa nahi duena erabiltzeko edo aldatzeko.
-![image](https://github.com/user-attachments/assets/5f3b6e8c-43b8-420a-928d-32886477b131)
-![image](https://github.com/user-attachments/assets/3cdd92c6-eba0-4f0f-871b-f3ad4b2cacc1)
+![image](https://github.com/user-attachments/assets/5f3b6e8c-43b8-420a-928d-32886477b131)![image](https://github.com/user-attachments/assets/3cdd92c6-eba0-4f0f-871b-f3ad4b2cacc1)
 
 
 
