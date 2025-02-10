@@ -44,12 +44,19 @@ formatutan egongo dira,  piezak aldatzeko Blender edo Tinkercad programak goment
   
 # App Bluetooth
 MIT App Inventor aplikazioa erabili dugu gure aplikazioa sortzeko. Erabili dugu bluetooth bidez motorra eta led-ak pizteko eta itzaltzeko programa sortzeko, App inventor-a aukera asko ematen ditu eta programazioa erraza erabiltzen du aplikazioak sortzeko. Utziko dugu gure aplikazioa nahi duena erabiltzeko edo aldatzeko.
-![image](https://github.com/user-attachments/assets/5f3b6e8c-43b8-420a-928d-32886477b131)![image](https://github.com/user-attachments/assets/3cdd92c6-eba0-4f0f-871b-f3ad4b2cacc1)
+
+![image](https://github.com/user-attachments/assets/a668ef51-843d-4d61-a875-7620a16b1608)
+![image](https://github.com/user-attachments/assets/952a41d1-debf-4dbe-a4d2-dc054240ee4f)
+
+
+
 
 
 
 # Kodigoa
 
-Lehenengo kodigo Motorra bluetooth bidez aktibatzea eta desaktibatzea, hori lortzen dugu gure aplicazioan 
+Motorraren kodigoa bluetooth bidez motorra aktibatu eta desaktibatu egiten du.
+
+Erlojuaren kodigoarentzako egina dagoen kodigoa hartu dugu eta LED-ak bluetooth bidez pizteko eta itxaltzeko hobekuntza jarri diogu. 
 
 
