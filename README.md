@@ -64,8 +64,8 @@ MIT App Inventor aplikazioa erabili dugu gure aplikazioa sortzeko. Erabili dugu 
 
 
 
-Motorraren kodigoa bluetooth bidez motorra aktibatu eta desaktibatu egiten du.
+Motorraren kodigoa bluetooth bidez motorra aktibatu eta desaktibatu egiten du. app invetorren bidez C edo D karakterea bidaltzen du bluetooth bidez arduinora, Arduinoa karaktera interpretatuko du C bada motorra piztuko du eta D sakatzerakoan motorra itzaliko du.💡
 
-Erlojuaren kodigoarentzako egina dagoen kodigoa hartu dugu eta LED-ak bluetooth bidez pizteko eta itxaltzeko hobekuntza jarri diogu. 
+Erlojuaren kodigoa  
 
 
