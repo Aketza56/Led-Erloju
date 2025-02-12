@@ -7,9 +7,9 @@
  Led Erlojua objektu baten begiespen-pertzepzioa aldi batez eteten ez denean sortzen den ilusio optikoari dagokio.  Proiektu honetan LED lerro bat noiz piztu eta noiz itzali erabakitzen dugu, airean formak marrazteko. Helizeak behar bezain azkar egingo du bira, irudimenezko forma finkoa ikusteko. 
 
 # Materiala
- -11 Leds.                  
+ -12 Leds.                  
  -11 Resistentzia 100 Ω                 
- -1 Resistentzia 1k Ω                   
+ -2 Resistentzia 1k Ω                   
  -1 Sensor Hall                 
  -2 Arduino nano               
  -2 Bluetooth HC-05
@@ -20,12 +20,16 @@
  -2 8mm-eko Errodamenduak                    
  -1 9V-ko Bateria               
  -1 Hagazka Hariztatuta M8,20cm
+ -3 etengailu
+ -1 hartgune enpotrablea emea
+ -1 Pila euskarria
 
 # Garapena  
 
 ![image](https://github.com/user-attachments/assets/01d16e11-6be5-4084-8dde-05b0a9261b81)
        Motorraren eskema ------------------------------------------------------------------  Erlojuaren eskema 
 # Erlojuaren Eskema 
+ Erlojuaren barruan 11 led bakaitza bere 100 Ω-ko erresistentziekin, Arduinoko pin digitaletan konektatuta egongo dira led-ak pizteko eta itxaltzeko. Arduinoa 9v-ko bateria elikatuko du eta haien artean etengailu bat egongo da beti piztuta ez egoteko. Bluetooth moduloa ere arduinoan konektatuta dago led-ak kontrolatzeko eta pizten diren probatzeko. Led hall-a led-en kontrako aldean egongo da hala ere arduinoan konektatuta egongo da bere funtzioa imana detektatzen duenean led-ak piztuko ditu.
 
 # Motorraren Eskema
  
@@ -55,6 +59,10 @@ MIT App Inventor aplikazioa erabili dugu gure aplikazioa sortzeko. Erabili dugu 
 
 
 # Kodigoa
+![image](https://github.com/user-attachments/assets/fd6d27b4-c6f1-44f0-8f06-a88a58774402)
+![image](https://github.com/user-attachments/assets/684baf37-09ff-43c4-bc8d-2d4e35d96e0f)
+
+
 
 Motorraren kodigoa bluetooth bidez motorra aktibatu eta desaktibatu egiten du.
 
