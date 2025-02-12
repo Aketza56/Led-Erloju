@@ -35,6 +35,7 @@ Eskemaren funtzioa da aplikazio baten bidez motorra aktibatzea edo desaktibatzea
 
 Hemen hurrengo dokumentuak Kutxa nagusia, atzeko estalkia, euskarri motorra, bi hankak euskarrirako eta goiko euskarria. Dokumentoak STL 
 formatutan egongo dira,  piezak aldatzeko Blender edo Tinkercad programak gomentzen dugu.
+
 ![image](https://github.com/user-attachments/assets/a0aa64e5-77ad-4ef5-9fcf-5ec280a64c78)![image](https://github.com/user-attachments/assets/8e8acfe5-04f8-49a8-863a-6fab25ad4aa4)
 
 
