@@ -66,6 +66,6 @@ MIT App Inventor aplikazioa erabili dugu gure aplikazioa sortzeko. Erabili dugu 
 
 Motorraren kodigoa bluetooth bidez motorra aktibatu eta desaktibatu egiten du. app invetorren bidez C edo D karakterea bidaltzen du bluetooth bidez arduinora, Arduinoa karaktera interpretatuko du C bada motorra piztuko du eta D sakatzerakoan motorra itzaliko du.💡
 
-Erlojuaren kodigoan bluetooth aplikazioa berdina da A interpreatzen duenean Led guztiak piztuko ditu eta B led-ak itzaliko ditu. Hasterakoan ondo kalibratuta badago kalkulatuko du zenbat irauten duen buelta bakoitza, hori kalkulatzerakoan /360 eta horrekin zenbat denboratan gradu bat irauten dun kalkulatzen du. 
+Erlojuaren kodigoan bluetooth aplikazioa berdina da A interpreatzen duenean Led guztiak piztuko ditu eta B led-ak itzaliko ditu. Hasterakoan ondo kalibratuta badago kalkulatuko du zenbat irauten duen buelta bakoitza, hori kalkulatzerakoan /360 eta horrekin zenbat denboratan gradu bat irauten dun kalkulatzen du.Hori egiterakoan segundu, minutu eta orduko ardatzen posizia hartuko ditu eta erlojuare marrazkia agertuko da⏱️
 
 
