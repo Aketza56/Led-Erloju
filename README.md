@@ -64,8 +64,8 @@ MIT App Inventor aplikazioa erabili dugu gure aplikazioa sortzeko. Erabili dugu 
 
 
 
-Motorraren kodigoa bluetooth bidez [motorra](https://github.com/Aketza56/Led-Erloju/wiki/Index) aktibatu eta desaktibatu egiten du. app invetorren bidez C edo D karakterea bidaltzen du bluetooth bidez arduinora, Arduinoa karaktera interpretatuko du C bada motorra piztuko du eta D sakatzerakoan motorra itzaliko du.💡
+Motorraren kodigoa bluetooth bidez [motorra](https://github.com/Aketza56/Led-Erloju/wiki/Index) aktibatu eta desaktibatu egiten du. app invetorren bidez C edo D karakterea bidaltzen du bluetooth bidez arduinora, [Arduinoa](https://github.com/Aketza56/Led-Erloju/wiki/Index) karaktera interpretatuko du C bada motorra piztuko du eta D sakatzerakoan [motorra](https://github.com/Aketza56/Led-Erloju/wiki/Index) itzaliko du.💡
 
-Erlojuaren kodigoan bluetooth aplikazioa berdina da A interpreatzen duenean Led guztiak piztuko ditu eta B led-ak itzaliko ditu. Hasterakoan ondo kalibratuta badago kalkulatuko du zenbat irauten duen buelta bakoitza, hori kalkulatzerakoan /360 eta horrekin zenbat denboratan gradu bat irauten dun kalkulatzen du.Hori egiterakoan segundu, minutu eta orduko ardatzen posizia hartuko ditu eta erlojuare marrazkia agertuko da⏱️
+Erlojuaren kodigoan bluetooth aplikazioa berdina da A interpreatzen duenean [Led](https://github.com/Aketza56/Led-Erloju/wiki/Index) guztiak piztuko ditu eta B [led-ak](https://github.com/Aketza56/Led-Erloju/wiki/Index) itzaliko ditu. Hasterakoan ondo kalibratuta badago kalkulatuko du zenbat irauten duen buelta bakoitza, hori kalkulatzerakoan /360 eta horrekin zenbat denboratan gradu bat irauten dun kalkulatzen du.Hori egiterakoan segundu, minutu eta orduko ardatzen posizia hartuko ditu eta erlojuare marrazkia agertuko da⏱️
 
 
