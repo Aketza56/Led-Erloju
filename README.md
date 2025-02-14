@@ -30,7 +30,7 @@ formatutan egongo dira,  piezak aldatzeko Blender edo Tinkercad programak goment
 
 
   
-# [App Bluetooth📱](https://drive.google.com/file/d/1bZminOzbNWAxiC8cXmrisa90jPiz9Bho/view?usp=drive_link)
+# [App Bluetooth📱](https://github.com/Aketza56/Led-Erloju/tree/main/Dokumentazioa/Arduino/Bluetooth)
 MIT App Inventor aplikazioa erabili dugu gure aplikazioa sortzeko. Erabili dugu bluetooth bidez [motorra](https://github.com/Aketza56/Led-Erloju/wiki/Index) eta [led-ak](https://github.com/Aketza56/Led-Erloju/wiki/Index) pizteko eta itzaltzeko programa sortzeko, App inventor-a aukera asko ematen ditu eta programazioa erraza erabiltzen du aplikazioak sortzeko. Utziko dugu gure aplikazioa nahi duena erabiltzeko edo aldatzeko.
 
 ![image](https://github.com/user-attachments/assets/a668ef51-843d-4d61-a875-7620a16b1608)
