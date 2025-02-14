@@ -33,7 +33,7 @@
 
 # Motorraren Eskema🛠️
  
-Eskemaren funtzioa da aplikazio baten bidez motorra aktibatzea edo desaktibatzea. Hori arduino, bluetooth eta app asmatzaile baten bidez lortzen dugu. Arduinoak ezin duenez motorra elikatu, 250AC/24DC/7DC elikatze-iturria egin dugu. Horrela, motorra 24 V-ean elikatuko dugu, eta arduinoa 7 V-ean. Orain, errele bat eranstea besterik ez zaizu falta, motorraren aktibazioa eta desaktibazioa kontrolatu ahal izateko.
+Eskemaren funtzioa da aplikazio baten bidez motorra aktibatzea edo desaktibatzea. Hori arduino, bluetooth eta app asmatzaile baten bidez lortzen dugu. [Arduinoak](https://github.com/Aketza56/Led-Erloju/wiki/Index) ezin duenez [motorra](https://github.com/Aketza56/Led-Erloju/wiki/Index) elikatu, 250AC/24DC/7DC elikatze-iturria egin dugu. Horrela, [motorra](https://github.com/Aketza56/Led-Erloju/wiki/Index) 24 V-ean elikatuko dugu, eta [arduinoa](https://github.com/Aketza56/Led-Erloju/wiki/Index) 7 V-ean. Orain, [errele](https://github.com/Aketza56/Led-Erloju/wiki/Index) bat eranstea besterik ez zaizu falta, motorraren aktibazioa eta desaktibazioa kontrolatu ahal izateko.
 
 # Euskarria🔩
 
@@ -48,7 +48,7 @@ formatutan egongo dira,  piezak aldatzeko Blender edo Tinkercad programak goment
 
   
 # App Bluetooth📱
-MIT App Inventor aplikazioa erabili dugu gure aplikazioa sortzeko. Erabili dugu bluetooth bidez motorra eta led-ak pizteko eta itzaltzeko programa sortzeko, App inventor-a aukera asko ematen ditu eta programazioa erraza erabiltzen du aplikazioak sortzeko. Utziko dugu gure aplikazioa nahi duena erabiltzeko edo aldatzeko.
+MIT App Inventor aplikazioa erabili dugu gure aplikazioa sortzeko. Erabili dugu bluetooth bidez [motorra](https://github.com/Aketza56/Led-Erloju/wiki/Index) eta [led-ak](https://github.com/Aketza56/Led-Erloju/wiki/Index) pizteko eta itzaltzeko programa sortzeko, App inventor-a aukera asko ematen ditu eta programazioa erraza erabiltzen du aplikazioak sortzeko. Utziko dugu gure aplikazioa nahi duena erabiltzeko edo aldatzeko.
 
 ![image](https://github.com/user-attachments/assets/a668ef51-843d-4d61-a875-7620a16b1608)
 ![image](https://github.com/user-attachments/assets/952a41d1-debf-4dbe-a4d2-dc054240ee4f)
@@ -64,7 +64,7 @@ MIT App Inventor aplikazioa erabili dugu gure aplikazioa sortzeko. Erabili dugu 
 
 
 
-Motorraren kodigoa bluetooth bidez motorra aktibatu eta desaktibatu egiten du. app invetorren bidez C edo D karakterea bidaltzen du bluetooth bidez arduinora, Arduinoa karaktera interpretatuko du C bada motorra piztuko du eta D sakatzerakoan motorra itzaliko du.💡
+Motorraren kodigoa bluetooth bidez [motorra](https://github.com/Aketza56/Led-Erloju/wiki/Index) aktibatu eta desaktibatu egiten du. app invetorren bidez C edo D karakterea bidaltzen du bluetooth bidez arduinora, Arduinoa karaktera interpretatuko du C bada motorra piztuko du eta D sakatzerakoan motorra itzaliko du.💡
 
 Erlojuaren kodigoan bluetooth aplikazioa berdina da A interpreatzen duenean Led guztiak piztuko ditu eta B led-ak itzaliko ditu. Hasterakoan ondo kalibratuta badago kalkulatuko du zenbat irauten duen buelta bakoitza, hori kalkulatzerakoan /360 eta horrekin zenbat denboratan gradu bat irauten dun kalkulatzen du.Hori egiterakoan segundu, minutu eta orduko ardatzen posizia hartuko ditu eta erlojuare marrazkia agertuko da⏱️
 
