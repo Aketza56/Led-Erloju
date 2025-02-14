@@ -41,7 +41,7 @@ MIT App Inventor aplikazioa erabili dugu gure aplikazioa sortzeko. Erabili dugu 
 
 
 
-# [Kodigoa💻](https://drive.google.com/drive/folders/1gpJUMkuo7wlW5EwYHzGcl60VJTspqivY)
+# [Kodigoa💻](https://github.com/Aketza56/Led-Erloju/tree/main/Dokumentazioa/Arduino)
 ![image](https://github.com/user-attachments/assets/fd6d27b4-c6f1-44f0-8f06-a88a58774402)
 ![image](https://github.com/user-attachments/assets/684baf37-09ff-43c4-bc8d-2d4e35d96e0f)
 
