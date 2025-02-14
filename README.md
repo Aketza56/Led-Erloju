@@ -18,7 +18,7 @@
  
 Eskemaren funtzioa da aplikazio baten bidez motorra aktibatzea edo desaktibatzea. Hori arduino, bluetooth eta app asmatzaile baten bidez lortzen dugu. [Arduinoak](https://github.com/Aketza56/Led-Erloju/wiki/Index) ezin duenez [motorra](https://github.com/Aketza56/Led-Erloju/wiki/Index) elikatu, 250AC/24DC/7DC elikatze-iturria egin dugu. Horrela, [motorra](https://github.com/Aketza56/Led-Erloju/wiki/Index) 24 V-ean elikatuko dugu, eta [arduinoa](https://github.com/Aketza56/Led-Erloju/wiki/Index) 7 V-ean. Orain, [errele](https://github.com/Aketza56/Led-Erloju/wiki/Index) bat eranstea besterik ez zaizu falta, motorraren aktibazioa eta desaktibazioa kontrolatu ahal izateko.
 
-# Euskarria🔩
+# [Euskarria🔩](https://drive.google.com/drive/folders/1BDREke7AjFSABWm9EOAAKTKNnoIfIV_I)
 
 Hemen hurrengo dokumentuak Kutxa nagusia, atzeko estalkia, euskarri motorra, bi hankak euskarrirako eta goiko euskarria. Dokumentoak STL 
 formatutan egongo dira,  piezak aldatzeko Blender edo Tinkercad programak gomentzen dugu.
