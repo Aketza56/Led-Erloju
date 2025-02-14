@@ -7,7 +7,7 @@
  Led Erlojua objektu baten begiespen-pertzepzioa aldi batez eteten ez denean sortzen den ilusio optikoari dagokio.  Proiektu honetan [LED](https://github.com/Aketza56/Led-Erloju/wiki/Index) lerro bat noiz piztu eta noiz itzali erabakitzen dugu, airean formak marrazteko. Helizeak behar bezain azkar egingo du bira, irudimenezko forma finkoa ikusteko. 
 
 
-# Garapena 📑
+# [Garapena 📑](https://drive.google.com/drive/folders/10YQQP2nMbpquNxjboK3WSbmJWc6FhIpe)
 
 ![image](https://github.com/user-attachments/assets/01d16e11-6be5-4084-8dde-05b0a9261b81)
        Motorraren eskema ------------------------------------------------------------------  Erlojuaren eskema 
