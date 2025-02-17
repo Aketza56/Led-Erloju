@@ -52,3 +52,8 @@ Motorraren kodigoa bluetooth bidez [motorra](https://github.com/Aketza56/Led-Erl
 Erlojuaren kodigoan bluetooth aplikazioa berdina da A interpreatzen duenean [Led](https://github.com/Aketza56/Led-Erloju/wiki/Materiala) guztiak piztuko ditu eta B [led-ak](https://github.com/Aketza56/Led-Erloju/wiki/Materiala) itzaliko ditu. Hasterakoan ondo kalibratuta badago kalkulatuko du zenbat irauten duen buelta bakoitza, hori kalkulatzerakoan /360 eta horrekin zenbat denboratan gradu bat irauten dun kalkulatzen du.Hori egiterakoan segundu, minutu eta orduko ardatzen posizia hartuko ditu eta erlojuare marrazkia agertuko da⏱️
 
 
+
+# [Eskertzak](https://github.com/Aketza56/Led-Erloju/wiki/Eskertzak)
+
+
+
