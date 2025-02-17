@@ -20,8 +20,8 @@ Eskemaren funtzioa da aplikazio baten bidez motorra aktibatzea edo desaktibatzea
 
 # [Euskarria🔩](https://github.com/Aketza56/Led-Erloju/tree/main/Dokumentazioa/3D%20Piezak)
 
-Hemen hurrengo dokumentuak Kutxa nagusia, atzeko estalkia, euskarri motorra, bi hankak euskarrirako eta goiko euskarria. Dokumentoak STL 
-formatutan egongo dira,  piezak aldatzeko Blender edo Tinkercad programak gomendatzen dugu.
+Hurrengo dokumentuak euskarriaren Kutxa nagusia, atzeko estalkia, motorraren euskarria, euskarriaren bi ankak eta goiko euskarria dira. Dokumentuak STL 
+formatutan egongo dira,  piezak aldatzeko edo sortzeko Blender eta Tinkercad programak gomendatzen ditugu.
 
 ![image](https://github.com/user-attachments/assets/a0aa64e5-77ad-4ef5-9fcf-5ec280a64c78)![image](https://github.com/user-attachments/assets/8e8acfe5-04f8-49a8-863a-6fab25ad4aa4)
 
