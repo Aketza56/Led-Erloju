@@ -16,7 +16,7 @@
 
 # Motorraren Eskema🛠️
  
-Eskemaren funtzioa da aplikazio baten bidez motorra aktibatzea edo desaktibatzea. Hori arduino, bluetooth eta app asmatzaile baten bidez lortzen dugu. [Arduinoak](https://github.com/Aketza56/Led-Erloju/wiki/Materiala) ezin duenez [motorra](https://github.com/Aketza56/Led-Erloju/wiki/Materiala) elikatu, [250AC/24DC/7DC elikatze-iturria](https://github.com/Aketza56/Led-Erloju/tree/main/Dokumentazioa/Proteus/Elikatze%20iturria) egin dugu. Horrela, [motorra](https://github.com/Aketza56/Led-Erloju/wiki/Materiala) 24 V-ean elikatuko dugu, eta [arduinoa](https://github.com/Aketza56/Led-Erloju/wiki/Materiala) 7 V-ean. Orain, [errele](https://github.com/Aketza56/Led-Erloju/wiki/Materiala) bat eranstea besterik ez zaizu falta, motorraren aktibazioa eta desaktibazioa kontrolatu ahal izateko.
+Eskemaren funtzioa da aplikazio baten bidez motorra aktibatzea edo desaktibatzea. Hori arduino, bluetooth eta app asmatzaile baten bidez lortzen dugu. [Arduinoak](https://github.com/Aketza56/Led-Erloju/wiki/Materiala) ezin duenez [motorra](https://github.com/Aketza56/Led-Erloju/wiki/Materiala) elikatu, 250AC/24DC/7DC [elikatze-iturria](https://github.com/Aketza56/Led-Erloju/tree/main/Dokumentazioa/Proteus/Elikatze%20iturria) egin dugu. Horrela, [motorra](https://github.com/Aketza56/Led-Erloju/wiki/Materiala) 24 V-ean elikatuko dugu, eta [arduinoa](https://github.com/Aketza56/Led-Erloju/wiki/Materiala) 7 V-ean. Orain, [errele](https://github.com/Aketza56/Led-Erloju/wiki/Materiala) bat eranstea besterik ez zaizu falta, motorraren aktibazioa eta desaktibazioa kontrolatu ahal izateko.
 
 # [Euskarria🔩](https://github.com/Aketza56/Led-Erloju/tree/main/Dokumentazioa/3D%20Piezak)
 
